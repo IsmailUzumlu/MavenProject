@@ -1,4 +1,4 @@
-added directly from GitHub.com to simulate REMOTE Repo as commitswe do not have localy
+added directly from GitHub.com to simulate REMOTE Repo as commits we do not have locally
 
-doing more work and trying to pullit down to local repo eventualy
+doing more work and trying to pull it down to local repo eventually
 
